@@ -1,4 +1,4 @@
-import SnacksTable from "./component/Snacktable";
+import SnacksTable from "./component/SnackTable";
 import { snacks } from "./data/data";
 
 function App() {
